@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://github.com/secondwindoss.png" width="96" alt="Second Wind OSS">
-</p>
-
-<h1 align="center">Second Wind OSS</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/secondwindoss/.github/main/profile/banner-dark.png">
+  <img alt="Second Wind OSS. Same API. Same license. New life." src="https://raw.githubusercontent.com/secondwindoss/.github/main/profile/banner-light.png" width="100%">
+</picture>
 
 ## Projects
 
